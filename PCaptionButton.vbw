@@ -1,0 +1,4 @@
+MCaptionButton = 123, 103, 986, 775, C
+MDebug = 123, 103, 948, 775, C
+CButtonMgr = 123, 103, 1005, 775, C
+CaptionButton = 123, 103, 570, 775, C, 100, 80, 547, 752, C
